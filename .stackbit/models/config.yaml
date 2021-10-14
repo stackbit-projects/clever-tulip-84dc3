@@ -1,6 +1,6 @@
 type: data
 name: Config
-label: Site configuration
+label: Site configuration!!
 fields:
   - type: enum
     name: backgroundColor
